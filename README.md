@@ -22,7 +22,7 @@ Welcome to my GitHub! I am Samuel Marín, a versatile full-stack developer and f
 - **Shell Command Mastery**: Knowledgeable in Unix shell commands and terminal utilities.
 
 ### Web Development
-- **Full Stack Development**: Proficiency in both frontend (HTML, CSS, JavaScript, React) and backend (PHP, Node.js, Python) technologies.
+- **Full Stack Development**: Proficiency in both frontend (HTML, CSS, JavaScript) and backend (.net core) technologies.
 - **CMS Development**: Expertise in developing custom solutions and functionalities within CMS platforms like WordPress and Joomla.
 - **API Integration**: Seamlessly integrating third-party services and APIs.
 - **Responsive Design**: Crafting responsive and user-friendly web interfaces for multiple devices.
