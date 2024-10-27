@@ -1,5 +1,5 @@
 
-# 👨‍💻 Samuel Marín - Software Developer
+# 👨‍💻 Samuel Hurtado Marín - Software Developer
 
 ![LinkedIn Badge](https://img.shields.io/badge/-SamuelMarin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-marin-35b85342/)
 ![GitHub Badge](https://img.shields.io/badge/-SamuelHM-grey?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/samuelhm/)
