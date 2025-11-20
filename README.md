@@ -4,7 +4,13 @@
 ![LinkedIn Badge](https://img.shields.io/badge/-SamuelMarin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-marin-35b85342/)
 ![GitHub Badge](https://img.shields.io/badge/-SamuelHM-grey?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/samuelhm/)
 
-Welcome to my GitHub! I am Samuel Marín, a versatile full-stack developer and freelance programmer with a passion for solving complex challenges, developing efficient algorithms, and creating innovative solutions. My expertise spans across various technologies and project types, from systems-level C programming to web development. Below, you’ll find a summary of my key skills and experience.
+Soy estudiante de Ingeniería Informática con una fuerte orientación hacia la programación de sistemas en entornos Linux. Mi experiencia se centra en el desarrollo en C y C++, la gestión de procesos, concurrencia, estructuras de datos y la comprensión profunda de cómo funciona el sistema operativo por debajo. Me interesa construir software que sea robusto, claro y eficiente.
+
+He desarrollado proyectos como una librería estándar en C, un shell estilo Unix y la implementación del algoritmo de los filósofos comensales utilizando hilos y mecanismos de sincronización. Estos trabajos me han enseñado a escribir código limpio, a depurar a bajo nivel y a pensar como alguien que diseña herramientas que otros desarrolladores podrían usar.
+
+Además, he trabajado en proyectos web que me permiten moverme con soltura también en el lado full-stack, combinando backend, frontend y APIs cuando el proyecto lo requiere. Esto me da una visión más completa del desarrollo y me ayuda a adaptarme a distintos tipos de retos.
+
+Busco oportunidades donde pueda seguir creciendo, trabajar con ingenieros con más experiencia y enfrentarme a problemas técnicos interesantes, ya sea en sistemas, backend o desarrollo de software en C/C++ sobre Linux.
 
 ## 🛠️ Skills & Expertise
 
