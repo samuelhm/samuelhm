@@ -1,54 +1,239 @@
+# 👨‍💻 Samuel Hurtado Marín
 
-# 👨‍💻 Samuel Hurtado Marín - Software Developer
+**Senior Programmer | Systems & Backend Specialist | Full-Stack Developer**
 
-![LinkedIn Badge](https://img.shields.io/badge/-SamuelMarin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-marin-35b85342/)
-![GitHub Badge](https://img.shields.io/badge/-SamuelHM-grey?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/samuelhm/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shurtado-m/)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samuelhm)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuel@hurtadom.dev)
 
-Soy estudiante de Ingeniería Informática con una fuerte orientación hacia la programación de sistemas en entornos Linux. Mi experiencia se centra en el desarrollo en C y C++, la gestión de procesos, concurrencia, estructuras de datos y la comprensión profunda de cómo funciona el sistema operativo por debajo. Me interesa construir software que sea robusto, claro y eficiente.
+---
 
-He desarrollado proyectos como una librería estándar en C, un shell estilo Unix y la implementación del algoritmo de los filósofos comensales utilizando hilos y mecanismos de sincronización. Estos trabajos me han enseñado a escribir código limpio, a depurar a bajo nivel y a pensar como alguien que diseña herramientas que otros desarrolladores podrían usar.
+## 🎯 Sobre Mí
 
-Además, he trabajado en proyectos web que me permiten moverme con soltura también en el lado full-stack, combinando backend, frontend y APIs cuando el proyecto lo requiere. Esto me da una visión más completa del desarrollo y me ayuda a adaptarme a distintos tipos de retos.
+Soy un **desarrollador de sistemas apasionado por la programación** con una trayectoria única. Tras **6 años liderando equipos de infraestructura y sistemas**, decidí hacer mi verdadera vocación mi profesión. Desde entonces, he dedicado miles de horas perfeccionando mis habilidades en **programación de sistemas, desarrollo backend y full-stack**, construcción de algoritmos eficientes y arquitectura de software robusto.
 
-Busco oportunidades donde pueda seguir creciendo, trabajar con ingenieros con más experiencia y enfrentarme a problemas técnicos interesantes, ya sea en sistemas, backend o desarrollo de software en C/C++ sobre Linux.
+Mi experiencia en **automatización de tareas empresariales** y **resolución de problemas complejos** en entornos Linux/Unix me ha dado una perspectiva única: **entiendo cómo funciona el sistema por debajo**, lo que me permite escribir código más eficiente, seguro y escalable.
 
-## 🛠️ Skills & Expertise
+Estudiante de **Ingeniería Informática (42 School)** | Certificaciones en **AWS** y **C#** | Actualmente aprendiendo **Machine Learning, LangChain y LangGraph**
 
-### Core Skills
-- **Problem-Solving Skills**: Adept at analyzing and resolving complex challenges with effective solutions.
-- **Algorithm Design and Implementation**: Crafting and implementing algorithms to solve diverse problems efficiently.
-- **Collaborative Work**: Proven experience working in a peer-to-peer environment, embracing collaboration and teamwork.
-- **Version Control with Git**: Proficient in using Git for collaboration, version control, and project management.
-- **Critical Thinking**: Applying structured thinking to analyze and resolve software issues.
-- **Data Structures**: Proficiency in implementing and utilizing various data structures.
-- **Software Design**: Developing and implementing robust software solutions from scratch.
-- **C Programming**: Strong expertise in C programming and system-level projects.
-- **Debugging and Code Optimization**: Skilled in debugging code and optimizing performance.
-- **Multithreaded Programming**: Experience in creating efficient and concurrent software.
-- **Shell Command Mastery**: Knowledgeable in Unix shell commands and terminal utilities.
+---
 
-### Web Development
-- **Full Stack Development**: Proficiency in both frontend (HTML, CSS, JavaScript) and backend (.net core) technologies.
-- **CMS Development**: Expertise in developing custom solutions and functionalities within CMS platforms like WordPress and Joomla.
-- **API Integration**: Seamlessly integrating third-party services and APIs.
-- **Responsive Design**: Crafting responsive and user-friendly web interfaces for multiple devices.
-- **SEO & Accessibility**: Implementing SEO best practices and improving web accessibility for a broader reach.
-- **Performance Optimization**: Enhancing web performance through efficient code practices and resource optimization.
+## 🛠️ Stack Técnico
 
-### Technical Leadership & Freelance Work
-- **Project Management**: Planning and managing independent software projects with effective time and resource allocation.
-- **Client Communication**: Strong ability to understand client requirements and maintain professional relationships.
-- **Autodiscipline & Organization**: Self-motivated and organized to manage tasks and meet deadlines effectively.
-- **Business Understanding**: Aligning technical solutions with business needs to achieve objectives.
+### 💻 Lenguajes de Programación
 
-## 🌟 Notable Projects
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-1. **Libft42**: A custom C library containing a wide range of reusable functions, implemented from scratch.
-2. **Minishell**: A Unix-like shell project built in C, featuring various built-in commands and system-level functionalities.
-3. **Web Development Projects**: Includes custom website and web application development using a variety of technologies and platforms.
+### 🌐 Frontend
 
-## 💬 Let's Connect
-- **LinkedIn**: [Samuel Marín](https://www.linkedin.com/in/samuel-marin-35b85342/)
-- **GitHub**: [samuelhm](https://github.com/samuelhm)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-Feel free to explore my repositories, and don't hesitate to reach out if you want to collaborate or learn more about my work! ✨
+### ⚙️ Backend & APIs
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+### 🗄️ Datos, DevOps & Cloud
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+### 🤖 Aprendiendo
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1A73E8?style=flat-square&logo=chain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1A73E8?style=flat-square&logo=graph&logoColor=white)
+
+---
+
+## 💡 Habilidades Clave
+
+### Desarrollo de Software
+- ✅ **Programación de Sistemas**: Concurrencia, multithreading, sincronización (mutex, semáforos)
+- ✅ **Estructuras de Datos & Algoritmos**: Implementación y optimización de complejidad
+- ✅ **Diseño de Software**: Arquitectura escalable, patrones de diseño, código limpio
+- ✅ **Full-Stack Development**: Frontend responsivo + backends robustos
+- ✅ **Debugging & Optimización**: Profiling, memory management, optimización de rendimiento
+
+### Experiencia Técnica
+- ✅ **Control de Versiones**: Git avanzado, flujos de colaboración
+- ✅ **Contenedorización**: Docker, orquestación de servicios
+- ✅ **Automatización**: Scripts Shell, procesos batch, DevOps
+- ✅ **APIs & Integración**: REST, terceros (OpenAI, etc.), integración seamless
+
+### Competencias Profesionales
+- ✅ **Trabajo en Equipo**: Experiencia demostrada en proyectos colaborativos (hasta 5+ desarrolladores)
+- ✅ **Resolución de Problemas**: Análisis crítico, pensamiento estructurado
+- ✅ **Comunicación Técnica**: Documentación clara, explicación de conceptos complejos
+- ✅ **Autodisciplina & Organización**: Gestión de proyectos independientes, cumplimiento de deadlines
+- ✅ **Adaptabilidad**: Rápido aprendizaje de nuevas tecnologías y stacks
+
+---
+
+## 🌟 Proyectos Destacados
+
+### 🏆 **[trapy](https://github.com/samuelhm/trapy)** - Traductor de Voz Bidireccional en Tiempo Real
+**Python | OpenAI APIs | Linux Audio (PulseAudio/PipeWire)**
+
+Aplicación inteligente de traducción de voz en tiempo real con controles push-to-talk. Integra Whisper (STT), GPT (traducción) y TTS (síntesis de voz) en un pipeline optimizado.
+
+- 🎤 Traducción bidireccional ES↔EN con latencia mínima
+- 🎛️ Controles por teclado/ratón con Voice Activity Detection
+- 🔧 Arquitectura modular bien documentada
+- ⚡ Integración con APIs modernas de OpenAI
+- **Valor técnico**: Manejo avanzado de audio en Linux, orquestación de APIs, optimización de latencia
+
+---
+
+### 🛒 **[Vento](https://github.com/samuelhm/Vento)** - C2C Marketplace con Microservicios
+**Trabajo en Equipo (5 desarrolladores) | Full-Stack | React + Fastify + PostgreSQL + Docker**
+
+Marketplace Consumer-to-Consumer para transacciones de segunda mano con arquitectura de microservicios. Plataforma completa con autenticación JWT, geolocalización en tiempo real y chat bidireccional.
+
+Responsabilidades en equipo:
+- Desarrollo de features en microservicios (Fastify/Node.js)
+- Integración de APIs complejas con PostGIS para geolocalización
+- Implementación de seguridad (bcrypt, JWT en cookies HttpOnly, SQL Injection prevention)
+- Chat en tiempo real con WebSockets (Socket.IO)
+- Orquestación Docker Compose para 4+ servicios
+- Git Flow, Scrum, Conventional Commits y CI/CD con GitHub Actions
+
+**Stack**: React + TypeScript + Vite | Fastify | PostgreSQL + PostGIS | Docker | Nginx | Socket.IO
+
+**Habilidades demostradas**: Arquitectura de microservicios, trabajo en equipo bajo Scrum, comunicación técnica, gestión de seguridad, DevOps
+
+---
+
+### 🎨 **[miniRT](https://github.com/samuelhm/mini_rt)** - Ray Tracing 3D
+**C | Renderizado Gráfico | Geometría Computacional**
+
+Motor de ray tracing 3D implementado desde cero en C puro, capaz de renderizar escenas complejas en tiempo real con iluminación fotorrealista.
+
+- Algoritmos de ray tracing para rendering fotorrealista
+- Manejo de geometría 3D y cálculos matemáticos complejos
+- Optimización de rendimiento para renderizado en tiempo real
+- **Valor técnico**: Dominio de algoritmos avanzados, optimización de performance, matemáticas aplicadas
+
+---
+
+### 🐚 **[Minishell](https://github.com/samuelhm/Minishell)** - Shell tipo Unix
+**C | Procesos | Parsing | Señales UNIX**
+
+Intérprete de comandos tipo bash implementado desde cero con soporte para:
+- Comandos built-in (`cd`, `echo`, `export`, etc.)
+- Pipes y redirecciones (>, >>, <, <<)
+- Variable expansion y manejo de señales
+- **Aprendizaje de bajo nivel**: Procesos, file descriptors, señales UNIX
+
+---
+
+### 👨‍‍✈️ **[Philosophers](https://github.com/samuelhm/Philosophers)** - Concurrencia & Sincronización
+**C | Multithreading | Mutex & Semáforos**
+
+Implementación del problema clásico de los Filósofos Comensales con:
+- Creación y gestión de múltiples hilos
+- Sincronización con mutex (evitar deadlocks)
+- Detección de race conditions
+- **Concepto clave**: Entendimiento profundo de programación concurrente
+
+---
+
+### 🌐 **[Webserv](https://github.com/samuelhm/Webserv)** - Servidor HTTP desde Cero
+**C++ | Networking | HTTP Protocol**
+
+Servidor web HTTP/1.1 completamente funcional:
+- Parser RFC 7230 compliant
+- Manejo de múltiples conexiones
+- Debugging y optimización de rendimiento
+- **Aplicación práctica**: Protocolo HTTP, sockets, arquitectura cliente-servidor
+
+---
+
+### 🎮 Otros Proyectos Relevantes
+
+| Proyecto | Stack | Descripción |
+|----------|-------|-------------|
+| [**Bethurtadom**](https://github.com/samuelhm/bethurtadom) | Python 3.14 + Playwright | Scanner inteligente de discrepancias en cuotas de apuestas deportivas con arquitectura modular y async/await |
+| [**CPP Modules**](https://github.com/samuelhm?tab=repositories&q=CPP-MODULE) | C++ | 9 módulos cubriendo OOP, templates, STL, herencia, polimorfismo |
+| [**Inception**](https://github.com/samuelhm/Inception) | Docker / Shell | Orquestación de servicios (NGINX, WordPress, MariaDB) en contenedores |
+| [**FullStackOpen**](https://github.com/samuelhm/FullStackOpen) | JavaScript / React | Certificación completa en full-stack moderno (en desarrollo) |
+| [**Minitalk**](https://github.com/samuelhm/Minitalk) | C | Comunicación entre procesos usando señales UNIX |
+| [**cute_console**](https://github.com/samuelhm/cute_console) | C++ | Librería para embellecer salidas de consola (herramienta reutilizable) |
+
+---
+
+## 📊 Contribuciones & Logros
+
+- 🔥 **377+ contribuciones en el último año**
+- ⭐ GitHub Achievements: Pair Extraordinaire, YOLO, Pull Shark (x2), Quickdraw
+- 🎓 **Estudiante Activo de 42 School** (Ingeniería Informática)
+- 📚 **Certificaciones**: AWS Services, C# (2 certificaciones)
+- 🤝 **Experiencia colaborativa** en startups y equipos multidisciplinarios
+
+---
+
+## 🚀 Por Qué Contratarme
+
+1. **Experiencia Única**: Transición exitosa de Infraestructura a Desarrollo con profundo entendimiento de sistemas
+2. **Productor de Código Denso**: Miles de horas escribiendo código limpio, documentado y optimizado
+3. **Versátil**: Desde systems C/C++ hasta full-stack JavaScript, siempre aprendiendo nuevas herramientas
+4. **Mentalidad de Equipo**: Demostrada colaboración en proyectos grandes y complejos bajo presión
+5. **Autodidacta Comprometido**: Actualmente aprendiendo ML, LangChain y LangGraph
+6. **Attention to Detail**: Debugging obsesivo, optimización de rendimiento, memoria segura
+
+---
+
+## 📚 Intereses Actuales
+
+- 🤖 **Machine Learning & IA**: Explorando redes neuronales, procesamiento de lenguaje natural
+- 🔗 **LangChain & LangGraph**: Diseño de agentes inteligentes con LLMs
+- 🔐 **Ciberseguridad**: Principios de software seguro, encriptación
+- ☁️ **Cloud & DevOps**: Profundización en AWS, CI/CD pipelines
+- 📈 **Architecture Patterns**: Escalabilidad, microservicios, event-driven systems
+
+---
+
+## 💬 Conectemos
+
+📧 **Email**: hurtadom.dev@gmail.com  
+💼 **LinkedIn**: [Samuel Hurtado Marín](https://www.linkedin.com/in/shurtado-m/)  
+🐙 **GitHub**: [@samuelhm](https://github.com/samuelhm)  
+🔗 **Web**: (próximamente)
+
+---
+
+## 📝 El Código Habla
+
+> _"La mejor manera de predecir el futuro es escribirlo"_ - David Bowie
+
+Mi filosofía: **código limpio, clara documentación, ejecución flawless**. Cada proyecto en mi GitHub es un testimonio de dedicación y maestría técnica.
+
+**Estoy disponible para**: Proyectos en **C/C++**, **Python**, **Backend**, **Full-Stack**, **Sistemas** o cualquier reto técnico interesante.
+
+---
+
+<div align="center">
+
+### ¨Juntos podemos construir software excepcional¨
+
+**⭐ Si te gustó mi perfil, no dudes en contactarme o explorar mis repositorios ⭐**
+
+</div>
