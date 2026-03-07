@@ -10,11 +10,11 @@
 
 ## 🎯 Sobre Mí
 
-Soy un **desarrollador de sistemas apasionado por la programación** con una trayectoria única. Tras **6 años liderando equipos de infraestructura y sistemas**, decidí hacer mi verdadera vocación mi profesión. Desde entonces, he dedicado miles de horas perfeccionando mis habilidades en **programación de sistemas, desarrollo backend y full-stack**, construcción de algoritmos eficientes y arquitectura de software robusto.
+Soy un **desarrollador apasionado por la programación** con una trayectoria única. Tras **6 años liderando equipos de infraestructura y sistemas**, decidí hacer mi verdadera vocación mi profesión. Desde entonces, he dedicado miles de horas perfeccionando mis habilidades en **programación, desarrollo backend y herramientas de IA con python**, construcción de algoritmos eficientes y arquitectura de software robusto.
 
-Mi experiencia en **automatización de tareas empresariales** y **resolución de problemas complejos** en entornos Linux/Unix me ha dado una perspectiva única: **entiendo cómo funciona el sistema por debajo**, lo que me permite escribir código más eficiente, seguro y escalable.
+Mi experiencia en **automatización de tareas empresariales** y **resolución de problemas complejos** en entornos Linux/Unix me ha dado una perspectiva única: **entiendo cómo funciona el sistema por debajo y los lenguajes de bajo nivel como C y C++**, lo que me permite escribir código más eficiente, seguro y escalable.
 
-Estudiante de **Ingeniería Informática (42 School)** | Certificaciones en **AWS** y **C#** | Actualmente aprendiendo **Machine Learning, LangChain y LangGraph**
+Estudiante de **Ingeniería Informática (42 School)** | Certificaciones en **AWS** y **C#** | Actualmente aprendiendo **Machine Learning, LangChain y LangGraph junto con python**
 
 ---
 
