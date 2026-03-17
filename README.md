@@ -213,7 +213,7 @@ Servidor web HTTP/1.1 completamente funcional:
 
 ## 💬 Conectemos
 
-📧 **Email**: hurtadom.dev@gmail.com  
+📧 **Email**: samuel@hurtadom.dev
 💼 **LinkedIn**: [Samuel Hurtado Marín](https://www.linkedin.com/in/shurtado-m/)  
 🐙 **GitHub**: [@samuelhm](https://github.com/samuelhm)  
 🔗 **Web**: (próximamente)
