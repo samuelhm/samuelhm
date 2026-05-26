@@ -177,7 +177,7 @@ Servidor web HTTP/1.1 completamente funcional con parser RFC 7230 compliant, man
 
 | Proyecto | Stack | Descripción |
 |----------|-------|-------------|
-| [**sbjobs**](https://github.com/samuelhm/sbjobs) | JavaScript | Automated job application platform: CV generation, tracking, and submission workflow |
+| [**Advanced Linux & Kernel**](https://github.com/samuelhm/Advanced-Linux-and-Kernel) | C / Shell / Kernel | Linux kernel customization, custom distribution creation, advanced system administration exercises for 42 specialization |
 | [**Bethurtadom**](https://github.com/samuelhm/bethurtadom) | Python 3.14 + Playwright | Scanner inteligente de discrepancias en cuotas de apuestas deportivas con arquitectura modular y async/await |
 | [**CPP Modules**](https://github.com/samuelhm?tab=repositories&q=CPP-MODULE) | C++ | 9 módulos cubriendo OOP, templates, STL, herencia, polimorfismo |
 | [**Inception**](https://github.com/samuelhm/Inception) | Docker / Shell | Orquestación de servicios (NGINX, WordPress, MariaDB) en contenedores |
