@@ -1,6 +1,6 @@
 # 👨‍💻 Samuel Hurtado Marín
 
-**Programmer | Systems & Backend Specialist | Full-Stack Developer**
+**Programmer | Systems & Backend Specialist**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shurtado-m/)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samuelhm)
@@ -10,11 +10,11 @@
 
 ## 🎯 Sobre Mí
 
-Soy un **desarrollador de sistemas apasionado por la programación** con una trayectoria única. Tras **6 años liderando equipos de infraestructura y sistemas**, decidí hacer mi verdadera vocación mi profesión. Desde entonces, he dedicado miles de horas perfeccionando mis habilidades en **programación de sistemas, desarrollo backend y full-stack**, construcción de algoritmos eficientes y arquitectura de software robusto.
+Soy un **desarrollador de sistemas apasionado por la programación** con una trayectoria única. Tras **6 años liderando equipos de infraestructura y sistemas**, decidí hacer mi verdadera vocación mi profesión. Desde entonces, he dedicado miles de horas perfeccionando mis habilidades en **programación de sistemas y desarrollo backend**, construcción de algoritmos eficientes y arquitectura de software robusto.
 
 Mi experiencia en **automatización de tareas empresariales** y **resolución de problemas complejos** en entornos Linux/Unix me ha dado una perspectiva única: **entiendo cómo funciona el sistema por debajo**, lo que me permite escribir código más eficiente, seguro y escalable.
 
-Estudiante de **Ingeniería Informática (42 School)** | Certificaciones en **AWS** y **C#** | Actualmente aprendiendo **Machine Learning, LangChain y LangGraph**
+Estudiante de **Ingeniería Informática (42 School)** | Certificaciones en **AWS** y **C#** | Actualmente aprendiendo **Firmware / Embedded development**
 
 ---
 
@@ -60,10 +60,10 @@ Estudiante de **Ingeniería Informática (42 School)** | Certificaciones en **AW
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 ### 🤖 Aprendiendo
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1A73E8?style=flat-square&logo=chain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1A73E8?style=flat-square&logo=graph&logoColor=white)
+Rust
+Kernel programming
+Firmware
+Embedded
 
 ---
 
